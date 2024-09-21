@@ -26,7 +26,6 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasSGama&theme=dark&hide_border=false&background=1e1e1e&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=cfcfcf&sideNums=cfcfcf&currStreakLabel=cfcfcf" alt="GitHub Streak" height="180em" style="width: 50%; margin-top: 2em;" />
   </br>
-  (https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlyZ2tsajBpbXdpdjZsMW1rbGh4azdrYzl0cnlkZDg4MzZjeHVmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Wzkc9iirQ4ZI7JoaD/giphy.gif)
 </p>
 
 ![Exemplo de GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlyZ2tsajBpbXdpdjZsMW1rbGh4azdrYzl0cnlkZDg4MzZjeHVmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Wzkc9iirQ4ZI7JoaD/giphy.gif)
