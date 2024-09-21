@@ -11,7 +11,6 @@
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" alt="React Native"/></code>
   <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" alt="Google Cloud"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"/></code>
