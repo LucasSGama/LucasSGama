@@ -19,19 +19,6 @@
 
 <br/>
 <p align="center">
-  <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LucasSGama&show_icons=true&title_color=58a6ff&text_color=cfcfcf&icon_color=58a6ff&bg_color=1e1e1e&cache_seconds=2300" alt="GitHub Stats" height="180em" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSGama&layout=compact&theme=neon" alt="Top Languages" height="180em" />
-    </td>
-  </tr>
-</table>
-
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasSGama&theme=dark&hide_border=false&background=1e1e1e&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=cfcfcf&sideNums=cfcfcf&currStreakLabel=cfcfcf" alt="GitHub Streak" height="180em" style="width: 50%; margin-top: 2em;" />
-  </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasSGama&show_icons=true&title_color=58a6ff&text_color=cfcfcf&icon_color=58a6ff&bg_color=1e1e1e&cache_seconds=2300" alt="GitHub Stats" height="180em" style="width: 49%; margin-right: 1%;" />
+  <img height="180em" style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSGama&layout=compact&theme=tokyonight">
 </p>
