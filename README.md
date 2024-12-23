@@ -19,6 +19,6 @@
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasSGama&show_icons=truetheme=tokyonight" alt="GitHub Stats" height="180em" style="width: 49%; margin-right: 1%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasSGama&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em" style="width: 49%; margin-right: 1%;" />
   <img height="180em" style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSGama&layout=compact&theme=tokyonight">
 </p>
